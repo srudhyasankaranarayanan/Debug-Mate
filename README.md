@@ -4,7 +4,7 @@
 
 The system analyses code and error information, explains errors in simple language, identifies where the bug occurs, provides hints before revealing the complete solution, and explains the programming concept behind the error.
 
-## Live Link: *[https://udify.app/workflow/LdABxlwCMHhxiPDi]*
+## Live Link: *https://udify.app/workflow/LdABxlwCMHhxiPDi*
 > **Debug smarter. Learn better. Fix with understanding.**
 
 ---
